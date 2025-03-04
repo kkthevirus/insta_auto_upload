@@ -20,9 +20,9 @@ logging.basicConfig(format="%(asctime)s - %(levelname)s - %(message)s", level=lo
 logger = logging.getLogger(__name__)
 
 # Define constants
-TELEGRAM_BOT_TOKEN = "7491146696:AAFW3JuZpghE85puwhxmJ-ltA59gnfg3_u0"
-INSTAGRAM_USERNAME = "s1t2g20"
-INSTAGRAM_PASSWORD = "da.gptwmd"
+TELEGRAM_BOT_TOKEN = ""
+INSTAGRAM_USERNAME = "0"
+INSTAGRAM_PASSWORD = "d"
 
 # Helper functions
 def extract_file_id(url):
